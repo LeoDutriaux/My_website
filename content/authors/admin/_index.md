@@ -7,10 +7,10 @@ education:
   - course: PhD in Cognitive Science
     institution: Sorbonne Paris Cité University
     year: 2016
-  - course: MSc in Cognitive Science
+  - course: MSc Cognitive Science (Cogmaster)
     institution: Ecole Normale Supérieure & Sorbonne Paris Cité University
     year: 2012
-  - course: BSc in Psychology
+  - course: BSc Psychology
     institution: Sorbonne Paris Cité University
     year: 2010
 email: ""
