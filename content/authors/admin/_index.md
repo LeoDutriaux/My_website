@@ -50,9 +50,9 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Postdoctoral researcher at the Institute of Neuroscience and Psychology, University of Glasgow, in collaboration with Prof. Lawrence Barsalou. My research has focused on memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective.
+I am currently a Postdoctoral researcher at the Institute of Neuroscience and Psychology, University of Glasgow, in collaboration with Prof. Lawrence Barsalou. My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective.
 
-My PhD project aimed to study the involvement of the sensory-motor systems in memory, language, and spatial cognition using motor interference. I am currently studying health cognition and, more specifically, how situated conceptualizations contribute to the desire that can motivate behavior, such as eating.
+My PhD project (supervised by Valérie Gyselinck and Pascale Piolino) aimed to study the involvement of the sensory-motor systems in memory, language, and spatial cognition using motor interference. My current research focus is health cognition and, more specifically, how situated conceptualizations contribute to the desire that can motivate behavior, such as eating.
 
 I have mostly conducted behavioral studies including laboratory experiments and surveys, but I'm also a strong supporter of interdisciplinarity and as such, I'm involved in several TMS and neuroimaging projects. 
 
