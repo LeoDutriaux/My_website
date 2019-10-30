@@ -22,7 +22,7 @@ interests:
 - Embodied cognition
 name: Léo Dutriaux
 organizations:
-- name: University of Glasgow
+- name: University of Trento
   url: ""
 role: Postodoctoral Researcher
 social:
@@ -50,10 +50,10 @@ user_groups:
 - Visitors
 ---
 
-I am currently Postdoctoral researcher at the Institute of Neuroscience and Psychology, University of Glasgow, in collaboration with Prof. Lawrence Barsalou. My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective.
+I am currently Postdoctoral researcher at the CIMeC, University of Trento, in collaboration with Prof. Roberto Bottini. My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective.
 
-My PhD project (supervised by Valérie Gyselinck and Pascale Piolino) aimed to study the involvement of the sensory-motor systems in memory, language, and spatial cognition using motor interference. My current research focus is health cognition and, more specifically, how situated conceptualizations contribute to the desire that can motivate behavior, such as eating.
+My PhD project (supervised by Valérie Gyselinck and Pascale Piolino) aimed to study the involvement of the sensory-motor systems in memory, language, and spatial cognition using motor interference. During my first postdoctoral position with prof. Lawrence Barsalou, I investigated health cognition and, more specifically, how situated conceptualizations contribute to the desire that can motivate behavior, such as eating. My current focus is the neuroscience of spatial cognition.
 
-I have mostly conducted behavioral studies including laboratory experiments and surveys, but I'm also a strong supporter of interdisciplinarity and as such, I'm involved in several TMS and neuroimaging projects. 
+As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, MEG, fMRI).
 
 I also co-developped Neuropsydia, a Python Module for creating experiments, tasks and questionnaires.
