@@ -24,7 +24,7 @@ name: Léo Dutriaux
 organizations:
 - name: University of Trento
   url: ""
-role: Postodoctoral Researcher
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
