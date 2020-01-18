@@ -24,7 +24,7 @@ tags:
 title: "How to change your memory of an object with a posture and a verb"
 url_code: ""
 url_dataset: "https://osf.io/kewpu/"
-url_pdf: http://journals.sagepub.com/doi/10.1177/1747021818785096
+url_pdf: https://hal.archives-ouvertes.fr/hal-01887616/document
 url_poster: ""
 url_project: ""
 url_slides: ""
