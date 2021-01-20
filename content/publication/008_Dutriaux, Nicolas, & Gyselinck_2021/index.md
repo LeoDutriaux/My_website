@@ -4,7 +4,7 @@ authors:
 - Dutriaux, L.
 - Nicolas, S.
 - Gyselinck, V.
-date: "2020-06-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: 'Aging, Neuropsychology, and Cognition'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 slides: ""
 summary: ""
 tags:
