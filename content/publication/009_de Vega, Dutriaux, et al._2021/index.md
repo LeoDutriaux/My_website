@@ -26,7 +26,6 @@ tags:
 - Source Themes
 title: "Crossing hands behind your back reduces recall of manual action sentences and alters brain dynamics"
 url_code: ""
-url_dataset: "https://osf.io/7np8a/"
 url_dataset: "https://zenodo.org/record/4458608"
 url_pdf: https://reader.elsevier.com/reader/sd/pii/S0010945221001131?token=C6C57D41497D4127126B3423076C907585B492F0EDA628947BA4963722CBED13B3EEC7B4E79309B8136800A03B6B8A40&originRegion=eu-west-1&originCreation=20210416085339
 url_poster: ""
