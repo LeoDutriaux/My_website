@@ -3,7 +3,7 @@ abstract: "The grounded cognition approach posits the involvement of sensory-mot
 authors:
 - Dutriaux, L.
 - Gyselinck, V.
-date: "2022-08-010T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: ""
 featured: true
 image:
