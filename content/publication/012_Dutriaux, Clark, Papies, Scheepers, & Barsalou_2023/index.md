@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'Cognitive Research: Principles and Implications'
+publication: 'PLoS ONE'
 publication_short: ""
 publication_types:
 - "2"
