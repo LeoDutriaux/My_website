@@ -19,20 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Researcher"
-  company = "University of Trento"
-  company_url = ""
-  location = ""
-  date_start = "2019-10-28"
-  date_end = ""
-  description = """In collaboration with Prof. Roberto Bottini, neuroscience of spatial cognition."""
-
-[[experience]]
-  title = "Postdoctoral Researcher"
   company = "University of Glasgow"
   company_url = ""
   location = ""
   date_start = "2017-09-01"
   date_end = "2019-10-27"
   description = """In collaboration with Prof. Lawrence W. Barsalou, investigation of abstract concepts and health behaviors (Eating, Stress, Habits, Trichotillomania...)."""
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "University of Trento"
+  company_url = ""
+  location = ""
+  date_start = "2019-10-28"
+  date_end = "2022-08-31"
+  description = """In collaboration with Prof. Roberto Bottini, neuroscience of spatial cognition."""
+
+[[experience]]
+  title = "Research and Teaching Assistant"
+  company = "Université Paris Nanterre"
+  company_url = ""
+  location = ""
+  date_start = "2022-09-21"
+  date_end = "2023-08-31"
+  description = """At the Laboratoire sur les Interactions Cognition, Action, Émotion (LICAÉ)"""
+
+
 
 +++
