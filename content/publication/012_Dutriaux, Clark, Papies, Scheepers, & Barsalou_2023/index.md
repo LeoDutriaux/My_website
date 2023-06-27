@@ -6,7 +6,7 @@ authors:
 - Papies, E. K.
 - Scheepers, C.
 - Barsalou, L. W.
-date: "2023-21-01T00:00:00Z"
+date: "2023-06-21T00:00:00Z"
 doi: "10.1371/journal.pone.0286954"
 featured: true
 image:
@@ -18,7 +18,7 @@ publication: 'Cognitive Research: Principles and Implications'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-12-01T00:00:00Z"
+publishDate: "2023-06-22T00:00:00Z"
 slides: ""
 summary: ""
 tags:
