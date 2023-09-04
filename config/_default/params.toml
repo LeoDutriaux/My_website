@@ -50,9 +50,9 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "leodutriaux@gmail.com"
-phone = "+39 (0) 461 282703"
-address = "Via delle Regole, 101 - 38060 Mattarello "
+email = "leo.dutriaux@univ-lyon2.fr"
+phone = ""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

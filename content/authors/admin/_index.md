@@ -50,10 +50,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently Assisant Professor at the EMC research group, University Lumière Lyon 2. My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective.
+I am currently Assisant Professor at the EMC research group, Université Lumière Lyon 2. 
 
-My PhD project (supervised by Valérie Gyselinck and Pascale Piolino) aimed to study the involvement of the sensory-motor systems in memory, language, and spatial cognition using motor interference. During my first postdoctoral position with prof. Lawrence Barsalou, I investigated health cognition and, more specifically, how situated conceptualizations contribute to the desire that can motivate behavior, such as eating. My current focus is the neuroscience of spatial cognition.
-
-As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, fMRI).
+My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective. As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, fMRI).
 
 I also co-developped Neuropsydia, a Python Module for creating experiments, tasks and questionnaires.
