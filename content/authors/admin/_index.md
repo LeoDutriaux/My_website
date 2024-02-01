@@ -20,12 +20,10 @@ interests:
 - Spatial cognition
 - Health cognition
 - Embodied cognition
-post-doctoral experience:
-- Université Paris Nanterre
 name: Léo Dutriaux
 organizations:
 - name: Université Lumière Lyon 2
-  url: ""
+  url: "https://emc.univ-lyon2.fr/equipes/memoire-emotion-et-attention-mea/dutriaux-leo"
 role: Assistant Professor
 social:
 - icon: envelope
