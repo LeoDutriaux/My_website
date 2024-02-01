@@ -24,7 +24,7 @@ tags:
 - Source Themes
 title: "Manipulating objects  during learning shrinks the global  scale of spatial representations  in memory: a virtual reality study"
 url_code: ""
-url_dataset: ""
+url_dataset: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-024-53239-1/MediaObjects/41598_2024_53239_MOESM1_ESM.xlsx"
 url_pdf: https://www.nature.com/articles/s41598-024-53239-1.pdf
 url_poster: ""
 url_project: ""
