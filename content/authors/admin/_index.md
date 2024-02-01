@@ -20,6 +20,8 @@ interests:
 - Spatial cognition
 - Health cognition
 - Embodied cognition
+post-doctoral experience:
+- Université Paris Nanterre
 name: Léo Dutriaux
 organizations:
 - name: Université Lumière Lyon 2
