@@ -50,7 +50,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently Assisant Professor at the EMC research group, Université Lumière Lyon 2. 
+I am currently Assistant Professor at the EMC research group, Université Lumière Lyon 2. 
 
 My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective. As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, fMRI).
 
