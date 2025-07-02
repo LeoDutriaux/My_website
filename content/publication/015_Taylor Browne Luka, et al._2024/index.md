@@ -6,7 +6,7 @@ authors:
 - Dutriaux, L.
 - Stevenson, J. L.
 - Barsalou, L. W.
-date: "2024-07-27T00:00:00Z"
+date: "2025-05-27T00:00:00Z"
 doi: "10.1177/10731911241262140"
 featured: true
 image:
@@ -18,7 +18,7 @@ publication: 'Assessment'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-07-27T00:00:00Z"
+publishDate: "2025-05-27T00:00:00Z"
 slides: ""
 summary: ""
 tags:
