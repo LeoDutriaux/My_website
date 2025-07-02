@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include memory, language, conceptual processing, spatial cognition, and health cognition.
+bio: My research interests include memory, concepts, language, conceptual processing, spatial cognition, conceptual spaces, and health cognition.
 education:
   courses:
   - course: PhD in Cognitive Science
