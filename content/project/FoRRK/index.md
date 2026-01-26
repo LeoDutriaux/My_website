@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: FoRKK - Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge
 tags:
-- Deep Learning
-title: FoRKK - Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge
+
+title: JCJC - French National Research Agency (ANR)
 url_code: ""
 url_pdf: ""
 url_slides: ""
