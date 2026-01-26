@@ -21,7 +21,7 @@
   
 [[main]]
   name = "Projects"
-  url = "#portfolio"
+  url = "#projects"
   weight = 50
 
 [[main]]
@@ -39,6 +39,6 @@
 [[main]]
   name = "CV"
   url = "files/CV Léo Dutriaux.pdf"
-  weight = 70
+  weight = 80
 
 

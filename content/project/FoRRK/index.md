@@ -3,7 +3,7 @@ date: "2025-10-01T00:00:00Z"
 external_link: ""
 image:
   caption:
-  focal_point: 
+  focal_point: Center
 links:
 - icon: 
   icon_pack: 
