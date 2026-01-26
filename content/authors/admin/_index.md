@@ -30,7 +30,7 @@ social:
   icon_pack: fas
   link: '#contact'
 - icon: bluesky
-  icon_pack: fab
+  icon_pack: fas
   link: https://bsky.app/profile/leodut.bsky.social
 - icon: google-scholar
   icon_pack: ai
