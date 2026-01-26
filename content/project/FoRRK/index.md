@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -10,7 +10,8 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: FoRKK - Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge
+summary: 2025-2029
+FoRKK - Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge
 tags:
 
 title: JCJC - French National Research Agency (ANR)
