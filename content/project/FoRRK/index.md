@@ -3,12 +3,12 @@ date: "2025-10-01T00:00:00Z"
 external_link: ""
 image:
   caption:
-  focal_point: Smart
+  focal_point: 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
 slides: example
 summary: 2025-2029 \n FoRKK - Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge
 tags:
