@@ -5,9 +5,7 @@ image:
   caption:
   focal_point: 
 
-summary: "2025-2029
-
-Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge."
+summary: "2025-2029. Using Egocentric and Allocentric Spaces to Represent Non-Spatial Knowledge."
 tags:
 
 title: JCJC - French National Research Agency (ANR) 
