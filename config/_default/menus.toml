@@ -21,12 +21,12 @@
   
 [[main]]
   name = "Projects"
-  url = "#fundings"
+  url = "#portfolio"
   weight = 50
 
 [[main]]
   name = "Experience"
-  url = "#experiences"
+  url = "#experience"
   weight = 60
 
 [[main]]
