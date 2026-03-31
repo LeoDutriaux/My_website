@@ -23,7 +23,7 @@ tags:
 title: "Memory and Representation of Vision-Related Verbs in Early Blind Individuals"
 url_code: ""
 url_dataset: "https://osf.io/d8h94/"
-url_pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12372691/pdf/joc-8-1-458.pdf
+url_pdf: https://journalofcognition.org/articles/458/files/68a859981ebd1.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
